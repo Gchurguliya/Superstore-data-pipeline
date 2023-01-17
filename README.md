@@ -55,7 +55,7 @@
 
 ![12](https://user-images.githubusercontent.com/121936498/212968075-fc91249a-fa8b-4713-acbf-b65208c39193.jpg)
 
-2.	Через командную строку, запустив Command Promt. В необходимо ввести следующую команду: «"C:\pentaho\Kitchen.bat" /file:"C:\pentaho\temp2\MyPentahoJob2.kjb" /level:Basic» и нажать Enter.
+2.	Через командную строку, запустив Command Promt. В Command Promt необходимо ввести следующую команду: «"C:\pentaho\Kitchen.bat" /file:"C:\pentaho\temp2\MyPentahoJob2.kjb" /level:Basic» и нажать Enter.
 
 ![13](https://user-images.githubusercontent.com/121936498/212968230-0a31ce0d-bf6f-42f8-b4d3-32562cf11bdd.jpg)
 
