@@ -48,19 +48,24 @@
 ## Инструкция по запуску Проекта
 Запустить Проект можно тремя способами
 1.	Через запущеннное приложение Pentaho Data Integration. В приложении открыть файл MyPentahoJob2.kjb и запустить Job. 
+2.	
 ![11](https://user-images.githubusercontent.com/121936498/212968004-61868b49-8f66-4255-9592-c664b465cd2b.jpg)
 
 После успешного завершения работы все элементы Joba в правом верхнем углу будут выделены зеленой галочкой. Выводиться будут следующие результаты 
+
 ![12](https://user-images.githubusercontent.com/121936498/212968075-fc91249a-fa8b-4713-acbf-b65208c39193.jpg)
 
 2.	Через командную строку, запустив Command Promt. В необходимо ввести следующую команду: «"C:\pentaho\Kitchen.bat" /file:"C:\pentaho\temp2\MyPentahoJob2.kjb" /level:Basic» и нажать Enter.
+
 ![13](https://user-images.githubusercontent.com/121936498/212968230-0a31ce0d-bf6f-42f8-b4d3-32562cf11bdd.jpg)
 
 После успешного завершения будут выведены следующие результаты 
+
 ![14](https://user-images.githubusercontent.com/121936498/212968298-401f9264-5f65-458e-aba6-5979f1bee4db.jpg)
 
 3.	Запустив программу StartETL.bat.
 После успешного завершения будут выведены следующие результаты 
+
 ![15](https://user-images.githubusercontent.com/121936498/212968330-57b748b9-06e7-4a7e-aff9-43e1e06878f3.jpg)
 
 
