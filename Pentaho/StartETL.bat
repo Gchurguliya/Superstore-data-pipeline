@@ -1,0 +1,1 @@
+"C:\pentaho\Kitchen.bat" /file:"C:\pentaho\temp2\MyPentahoJob2.kjb" /level:Basic
