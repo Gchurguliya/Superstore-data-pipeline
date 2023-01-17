@@ -23,9 +23,9 @@
 
 ## Технологии, которые применялись
 
-Pentaho Data Integration для организации ETL процесса 
-PostgreSQL для хранения данных
-Power Bi для визуализации
++ Pentaho Data Integration для организации ETL процесса 
++ PostgreSQL для хранения данных
++ Power Bi для визуализации
 
 ## Визуализация
 ### Дашборд №1
