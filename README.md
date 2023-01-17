@@ -68,4 +68,7 @@
 
 ![15](https://user-images.githubusercontent.com/121936498/212968330-57b748b9-06e7-4a7e-aff9-43e1e06878f3.jpg)
 
+Возможность запуска ETL процесса по расписанию реализована через Task Scheduler. В соответствии с расписанием запускается файл StartETL.bat.
+
+![16](https://user-images.githubusercontent.com/121936498/212982790-48e99f84-5e1d-4bb7-9b76-a9738f449dfa.jpg)
 
